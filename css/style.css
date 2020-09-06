@@ -61,16 +61,16 @@ img {
 
 
 #cookies .image {
-    background-image: url("/img/gluten-free-sugar-cookies.jpg");
+    background-image: url("../img/gluten-free-sugar-cookies.jpg");
     
 }
 
 #pesto .image {
-    background-image: url("/img/nut-free-pesto.jpg");
+    background-image: url("../img/nut-free-pesto.jpg");
 }
 
 #salad .image {
-    background-image: url("/img/watermelon-salad.jpg");
+    background-image: url("../img/watermelon-salad.jpg");
 }
 
 .card {
