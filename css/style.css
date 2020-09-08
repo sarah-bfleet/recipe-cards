@@ -95,7 +95,7 @@ img {
 
 .time {
     display: flex;
-    /**border: 1px solid black;**/
+    border: 1px solid black;
     text-transform: uppercase;
     margin: 0;
     padding: 0 5px;
@@ -109,9 +109,12 @@ img {
 
 .prep, .cook, .total {
     display: flex;
-    border: 1px solid black;
     padding: 5px 0;
- 
+}
+
+.cook {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
 }
 
 .columns {
